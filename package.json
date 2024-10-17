@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-paginate": "^8.2.0",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
